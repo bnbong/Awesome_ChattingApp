@@ -93,10 +93,10 @@ SDK : Android API 29 ®
 
 Team 두둥등장
 
-백앤드 개발 (Back-end) : [박종윤(JJongmen)](https://github.com/JJongmen/JJongmen.github.io)
+백앤드 개발 (Back-end) : [JJongmen](https://github.com/JJongmen/JJongmen.github.io)
 
-db 및 이슈관리 (db & Issue tracking) : [남현기(namHG)](https://github.com/namHG/namHG.github.io)
+db 및 이슈관리 (db & Issue tracking) : [namHG](https://github.com/namHG/namHG.github.io)
 
-프론트앤드 개발 (front-end) : [김택윤(GoodTY)](https://github.com/GoodTY/GoodTY.github.io)
+프론트앤드 개발 (front-end) : [GoodTY](https://github.com/GoodTY/GoodTY.github.io)
 
-프로젝트 관련 디렉팅 및 문서화 (directing & document) : [이준혁(bnbong)](https://github.com/bnbong/bnbong.github.io)
+프로젝트 관련 디렉팅 및 문서화 (directing & document) : [bnbong](https://github.com/bnbong/bnbong.github.io)

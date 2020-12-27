@@ -79,9 +79,9 @@ Latest Release [ver 0.1.0 (2020/06/24)](https://github.com/bnbong/Awesome_Chatti
 
 ..또는 개발자에게 직접 문의하세요!
 
-이슈트레킹 담당 : [남현기(namHG)](https://github.com/namHG/namHG.github.io)
+이슈트레킹 담당 : [namHG](https://github.com/namHG/namHG.github.io)
 
-디렉터 : [이준혁(bnbong)](https://github.com/bnbong/bnbong.github.io)
+디렉터 : [bnbong](https://github.com/bnbong/bnbong.github.io)
 
 ## Wiki
 
@@ -91,13 +91,13 @@ Latest Release [ver 0.1.0 (2020/06/24)](https://github.com/bnbong/Awesome_Chatti
 
 Team 두둥등장
 
-백앤드 개발 : [박종윤(JJongmen)](https://github.com/JJongmen/JJongmen.github.io)
+백앤드 개발 : [JJongmen](https://github.com/JJongmen/JJongmen.github.io)
 
-db 및 이슈관리 : [남현기(namHG)](https://github.com/namHG/namHG.github.io)
+db 및 이슈관리 : [namHG](https://github.com/namHG/namHG.github.io)
 
-프론트앤드 개발 : [김택윤(GoodTY)](https://github.com/GoodTY/GoodTY.github.io)
+프론트앤드 개발 : [GoodTY](https://github.com/GoodTY/GoodTY.github.io)
 
-프로젝트 관련 디렉팅 및 문서화 : [이준혁(bnbong)](https://github.com/bnbong/bnbong.github.io)
+프로젝트 관련 디렉팅 및 문서화 : [bnbong](https://github.com/bnbong/bnbong.github.io)
 
 ## Contributing Awesome_ChattingApp
 
@@ -169,7 +169,7 @@ git push origin [contributor's github nickname]
 
 *   Contribute를 마친 후, 본 레포지토리에 PR을 하는 방법은 [TEMPLATE](PULL_REQUEST_TEMPLATE.md)에 상세히 작성되어 있습니다.
 *   Awesome_ChattingApp 프로젝트에 기여하신 모든 여러분들께 감사의 말씀을 드립니다.
-*   **RP전, 상단에 나와 있는 모든 사항들을 숙지하고 계셔야 합니다.**
+*   **PR전, 상단에 나와 있는 모든 사항들을 숙지하고 계셔야 합니다.**
 *   PR에 관하여 모든 질문사항은 디렉터 개인 메일 (bbbong9@gmail.com) 으로 문의주시길 바랍니다.
 
 ## Security

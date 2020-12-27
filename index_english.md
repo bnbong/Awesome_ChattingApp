@@ -78,9 +78,9 @@ Latest Release [ver 0.1.0 (2020/06/24)](https://github.com/bnbong/Awesome_Chatti
 
 ..Or contact developers directly!
 
-Issue Trekking Officer : [남현기(namHG)](https://github.com/namHG/namHG.github.io)
+Issue Trekking Officer : [namHG](https://github.com/namHG/namHG.github.io)
 
-Director : [이준혁(bnbong)](https://github.com/bnbong/bnbong.github.io)
+Director : [bnbong](https://github.com/bnbong/bnbong.github.io)
 
 ## Wiki
 
@@ -90,13 +90,13 @@ Director : [이준혁(bnbong)](https://github.com/bnbong/bnbong.github.io)
 
 Team 두둥등장
 
-back-end development : [박종윤(JJongmen)](https://github.com/JJongmen/JJongmen.github.io)
+back-end development : [JJongmen](https://github.com/JJongmen/JJongmen.github.io)
 
-db and issue management : [남현기(namHG)](https://github.com/namHG/namHG.github.io)
+db and issue management : [namHG](https://github.com/namHG/namHG.github.io)
 
-front-end development: [김택윤(GoodTY)](https://github.com/GoodTY/GoodTY.github.io)
+front-end development: [GoodTY](https://github.com/GoodTY/GoodTY.github.io)
 
-Project-related directing and documentation : [이준혁(bnbong)](https://github.com/bnbong/bnbong.github.io)
+Project-related directing and documentation : [bnbong](https://github.com/bnbong/bnbong.github.io)
 
 ## Contributing Awesome_ChattingApp
 
